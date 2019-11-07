@@ -1,3 +1,7 @@
-import helloworld
+#this is for class3 06Nov2019
+import functions
 
-print (helloworld.helloworld())
+def main():
+    functions.counter
+
+main()
